@@ -1,0 +1,10 @@
+flask
+pandas 
+numpy
+gunicorn
+Jinja2
+Werkzeug
+scipy
+scikit-learn
+matplotlib
+pickle
